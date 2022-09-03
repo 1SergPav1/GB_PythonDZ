@@ -20,9 +20,8 @@ xyz = [
 ]
 
 for i in xyz:
-    morgan = not(i[0] or i[1] or i[2]) == ((not i[0]) and (not i[1]) and (not i[2]))
+    morgan = not (i[0] or i[1] or i[2]) == ((not i[0]) and (not i[1]) and (not i[2]))
     print(morgan)
-
 
 # Задание_3
 
@@ -65,7 +64,5 @@ y2 = int(input("Введи координату Y точки В: "))
 
 x = x2 - x1
 y = y2 - y1
-answer = math.sqrt(x**2 + y**2)
+answer = math.sqrt(x ** 2 + y ** 2)
 print('Расстояние между точками А и В = ', answer)
-
-
