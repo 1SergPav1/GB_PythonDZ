@@ -20,8 +20,8 @@ xyz = [
 ]
 
 for i in xyz:
-    a = not(i[0] or i[1] or i[2]) == ((not i[0]) and (not i[1]) and (not i[2]))
-    print(a)
+    morgan = not(i[0] or i[1] or i[2]) == ((not i[0]) and (not i[1]) and (not i[2]))
+    print(morgan)
 
 
 # Задание_3
