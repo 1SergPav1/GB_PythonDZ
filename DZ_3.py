@@ -32,7 +32,6 @@
 # print(set(result_list))
 
 # Задание_3
-import math
 
 # my_list = [1.1, 1.2, 3.1, 5, 10.01]
 #
