@@ -23,3 +23,4 @@
 # num = int(input('Введи число: '))
 # num_list = map((lambda x: (1 + 1 / x) ** x), range(1, num + 1))
 # print(sum(num_list))
+
